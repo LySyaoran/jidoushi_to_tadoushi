@@ -607,6 +607,8 @@
 | 299 | 仕上げる（しあげる） | Tha động từ | ・Hoàn thành, hoàn thiện | 〜を仕上げる: chủ thể hoàn thành | ・作品を仕上げる: Hoàn thành tác phẩm<br>・料理を仕上げる: Hoàn thiện món ăn<br>・記事を仕上げる: Hoàn thành bài báo |
 | 300 | 報われる（むくわれる） | Tự động từ | ・Được đền đáp, được báo đáp | 〜が報われる: tự được đền đáp | ・努力が報われる: Nỗ lực được đền đáp<br>・苦労が報われる: Vất vả được đền đáp<br>・愛が報われる: Tình yêu được đáp lại |
 | 300 | 報いる（むくいる） | Tha động từ | ・Đền đáp, báo đáp | 〜を報いる: chủ thể đền đáp | ・恩を報いる: Đền đáp ân tình<br>・努力を報いる: Đền đáp nỗ lực<br>・親切を報いる: Đền đáp lòng tốt |
+| 301 | 過ぎる（すぎる） | Tự động từ | ・Trôi qua, trôi (thờ gian) | 〜が過ぎる: thờ gian tự trôi | ・時間が過ぎる: Thờ gian trôi<br>・季節が過ぎる: Mùa trôi |
+| 301 | 過ごす（すごす） | Tha động từ | ・Qua, sống, trải qua | 〜を過ごす: chủ thể sống qua | ・時間を過ごす: Qua thờ gian<br>・休暇を過ごす: Qua kỳ nghỉ |
 
 ---
 
