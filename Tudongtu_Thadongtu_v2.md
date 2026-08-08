@@ -253,8 +253,6 @@
 | 111 | 傷つける（きずつける） | Tha động từ | ・Làm bị thương | 〜を傷つける: chủ thể làm bị thương | ・人を傷つける: Làm tổn thương ngườ<br>・自尊心を傷つける: Tổn thương lòng tự trọng<br>・体を傷つける: Làm bị thương thân thể |
 | 112 | 叶う（かなう） | Tự động từ | ・Thành hiện thực | 〜が叶う: tự thành hiện thực | ・夢が叶う: Ước mơ thành hiện thực<br>・願いが叶う: Điều ước thành hiện thực<br>・望みが叶う: Mong muốn thành hiện thực |
 | 112 | 叶える（かなえる） | Tha động từ | ・Thực hiện (ước mơ) | 〜を叶える: chủ thể thực hiện | ・夢を叶える: Thực hiện ước mơ<br>・願いを叶える: Thực hiện điều ước<br>・目標を叶える: Đạt mục tiêu |
-| 113 | 満ちる（みちる） | Tự động từ | ・Đầy (trăng, bình)<br>・Tràn (cảm xúc) | 〜が満ちる: tự đầy | ・月が満ちる: Trăng tròn<br>・コップが満ちる: Ly đầy<br>・愛が満ちる: Tràn ngập yêu thương |
-| 113 | 満たす（みたす） | Tha động từ | ・Làm đầy, thỏa mãn | 〜を満たす: chủ thể làm đầy/thỏa mãn | ・条件を満たす: Đáp ứng điều kiện<br>・心を満たす: Làm đầy lòng<br>・渇きを満たす: Giải khát |
 | 114 | 生える（はえる） | Tự động từ | ・Mọc (răng, tóc, râu) | 〜が生える: tự mọc | ・草が生える: Cỏ mọc<br>・髪が生える: Tóc mọc<br>・ひげが生える: Râu mọc |
 | 114 | 生やす（はやす） | Tha động từ | ・Để mọc, nuôi (râu tóc) | 〜を生やす: chủ thể để mọc/nuôi | ・ひげを生やす: Nuôi râu<br>・髪を生やす: Để tóc mọc<br>・草木を生やす: Trồng cây cỏ |
 | 115 | 暖まる（あたたまる） | Tự động từ | ・Ấm lên (sưởi) | 〜が暖まる: tự ấm lên | ・部屋が暖まる: Phòng ấm lên<br>・体が暖まる: Ngườ ấm lên<br>・心が暖まる: Lòng ấm áp |
@@ -295,12 +293,8 @@
 | 132 | 引っ掛ける（ひっかける） | Tha động từ | ・Móc vào, gài bẫy | 〜を引っ掛ける: chủ thể móc/gài | ・帽子を引っ掛ける: Treo mũ lên<br>・釣り針に引っ掛ける: Móc vào lưỡi câu<br>・引っ掛けを仕掛ける: Gài bẫy |
 | 133 | 引き締まる（ひきしまる） | Tự động từ | ・Săn chắc, căng | 〜が引き締まる: tự săn chắc | ・体が引き締まる: Ngườ săn chắc<br>・表情が引き締まる: Vẻ mặt nghiêm nghị<br>・空気が引き締まる: Không khí căng thẳng |
 | 133 | 引き締める（ひきしめる） | Tha động từ | ・Siết chặt, chấn chỉnh | 〜を引き締める: chủ thể siết/chấn chỉnh | ・気を引き締める: Chấn chỉnh tinh thần<br>・体を引き締める: Làm săn chắc cơ thể<br>・綱を引き締める: Siết chặt dây thừng |
-| 134 | 積もる（つもる） | Tự động từ | ・Chất đống, tích tụ | 〜が積もる: tự chất đống | ・雪が積もる: Tuyết đóng dày<br>・ほこりが積もる: Bụi bám dày<br>・思いが積もる: Tâm tư chất chứa |
-| 134 | 積む（つむ） | Tha động từ | ・Chất lên, tích lũy | 〜を積む: chủ thể chất/tích lũy | ・荷物を積む: Chất hàng lên xe<br>・経験を積む: Tích lũy kinh nghiệm<br>・本を積む: Xếp chồng sách |
 | 135 | 植わる（うわる） | Tự động từ | ・Được trồng | 〜が植わる: tự được trồng | ・木が植わる: Cây được trồng<br>・花が植わる: Hoa được trồng<br>・苗が植わる: Mạ được gieo |
 | 135 | 植える（うえる） | Tha động từ | ・Trồng | 〜を植える: chủ thể trồng | ・木を植える: Trồng cây<br>・花を植える: Trồng hoa<br>・苗を植える: Gieo mạ |
-| 136 | 詰まる（つまる） | Tự động từ | ・Bị tắc, kín | 〜が詰まる: tự bị tắc | ・鼻が詰まる: Nghẹt mũi<br>・予定が詰まる: Lịch kín<br>・パイプが詰まる: Ống tắc |
-| 136 | 詰める（つめる） | Tha động từ | ・Nhét, lấp đầy | 〜を詰める: chủ thể nhét/lấp | ・荷物を詰める: Nhét hành lý<br>・弁当を詰める: Xếp cơm hộp<br>・時間を詰める: Sắp xếp kín thờ gian |
 | 137 | ほどける | Tự động từ | ・Bị tuột, bung | 〜がほどける: tự tuột/bung | ・靴ひもがほどける: Dây giày tuột<br>・結び目がほどける: Nút thắt bung<br>・心がほどける: Lòng tan chảy |
 | 137 | ほどく | Tha động từ | ・Tháo, gỡ | 〜をほどく: chủ thể tháo/gỡ | ・靴ひもをほどく: Tháo dây giày<br>・結び目をほどく: Gỡ nút thắt<br>・包みをほどく: Mở gó |
 | 138 | 乱れる（みだれる） | Tự động từ | ・Rối loạn | 〜が乱れる: tự rối loạn | ・髪が乱れる: Tóc rố<br>・秩序が乱れる: Trật tự rối loạn<br>・呼吸が乱れる: Hơ thở dồn dập |
@@ -315,18 +309,12 @@
 | 142 | 離す（はなす） | Tha động từ | ・Tách ra, buông ra | 〜を離す: chủ thể tách/buông | ・手を離す: Buông tay<br>・目を離す: Rờ mắt<br>・距離を離す: Giữ khoảng cách |
 | 143 | 放れる（はなれる） | Tự động từ | ・Thoát ra, bật ra | 〜が放れる: tự thoát/bật | ・矢が放れる: Tên bắn ra<br>・鳥が放れる: Chim thoát ra<br>・手が放れる: Tay bật ra |
 | 143 | 放す（はなす） | Tha động từ | ・Thả ra, phóng | 〜を放す: chủ thể thả/phóng | ・鳥を放す: Thả chim<br>・手を放す: Buông tay<br>・矢を放す: Bắn tên |
-| 144 | 抜ける（ぬける） | Tự động từ | ・Tuột ra, rụng, thiếu | 〜が抜ける: tự tuột/rụng/thiếu | ・髪が抜ける: Tóc rụng<br>・歯が抜ける: Răng rụng<br>・手が抜ける: Thiếu ngườ |
-| 144 | 抜く（ぬく） | Tha động từ | ・Rút ra, bỏ sót, vượt | 〜を抜く: chủ thể rút/bỏ sót/vượt | ・歯を抜く: Nhổ răng<br>・手順を抜く: Bỏ sót bước<br>・前の車を抜く: Vượt xe trước |
-| 145 | 現れる（あらわれる） | Tự động từ | ・Xuất hiện | 〜が現れる: tự xuất hiện | ・月が現れる: Trăng hiện ra<br>・姿が現れる: Hiện thân<br>・敵が現れる: Kẻ địch xuất hiện |
-| 145 | 現す（あらわす） | Tha động từ | ・Để lộ, hiện | 〜を現す: chủ thể để lộ/hiện | ・姿を現す: Hiện thân<br>・本性を現す: Lộ bản chất<br>・実力を現す: Thể hiện thực lực |
 | 146 | 表れる（あらわれる） | Tự động từ | ・Biểu lộ ra | 〜が表れる / 〜に表れる: tự biểu lộ | ・効果が表れる: Hiệu quả thể hiện<br>・結果に表れる: Thể hiện qua kết quả<br>・顔に表れる: Lộ ra trên mặt |
 | 146 | 表す（あらわす） | Tha động từ | ・Biểu thị, thể hiện | 〜を表す: chủ thể biểu thị | ・気持ちを表す: Thể hiện tấm lòng<br>・感謝を表す: Bày tỏ lòng biết ơn<br>・数字で表す: Biểu thị bằng số |
 | 147 | 預かる（あずかる） | Tự động từ | ・Nhận giữ hộ | 〜を預かる: tự nhận giữ hộ | ・荷物を預かる: Giữ hộ hành lý<br>・子どもを預かる: Trông hộ con<br>・鍵を預かる: Giữ hộ chìa khóa |
 | 147 | 預ける（あずける） | Tha động từ | ・Gửi, giao phó | 〜を預ける: chủ thể gửi/giao phó | ・荷物を預ける: Gửi hành lý<br>・子どもを預ける: Gửi con<br>・資産を預ける: Giao phó tài sản |
 | 148 | 明ける（あける） | Tự động từ | ・Trờ sáng, hết (năm) | 〜が明ける: tự sáng/hết | ・夜が明ける: Trờ sáng<br>・年が明ける: Năm hết<br>・長い冬が明ける: Mùa đông dài kết thúc |
 | 148 | 明かす（あかす） | Tha động từ | ・Vạch trần, thức trắng | 〜を明かす: chủ thể vạch/thức | ・秘密を明かす: Tiết lộ bí mật<br>・正体を明かす: Vạch trần chân tướng<br>・夜を明かす: Thức trắng đêm |
-| 149 | 欠ける（かける） | Tự động từ | ・Bị sứt, thiếu | 〜が欠ける / 〜に欠ける: tự sứt/thiếu | ・歯が欠ける: Sứt răng<br>・常識に欠ける: Thiếu thường thức<br>・月が欠ける: Trăng khuyết |
-| 149 | 欠く（かく） | Tha động từ | ・Làm thiếu, bỏ sót | 〜を欠く: chủ thể làm thiếu/bỏ sót | ・手順を欠く: Bỏ sót bước<br>・礼儀を欠く: Thiếu lễ phép<br>・出席を欠く: Vắng mặt |
 | 150 | 絶える（たえる） | Tự động từ | ・Dứt, đoạn | 〜が絶える: tự dứt/đoạn | ・連絡が絶える: Mất liên lạc<br>・命が絶える: Tuyệt mạng<br>・音が絶える: Âm thanh ngừng |
 | 150 | 絶やす（たやす） | Tha động từ | ・Làm dứt, tiêu diệt | 〜を絶やす: chủ thể làm dứt/tiêu diệt | ・絆を絶やす: Cắt đứt liên kết<br>・命を絶やす: Tiêu diệt sinh mạng<br>・火種を絶やす: Dập tắt mầm lửa |
 | 151 | 及ぶ（およぶ） | Tự động từ | ・Kéo đến, lan đến | 〜が及ぶ / 〜に及ぶ: tự kéo đến/lan đến | ・被害が全国に及ぶ: Thiệt hại lan toàn quốc<br>・影響が及ぶ: Ảnh hưởng lan ra<br>・範囲に及ぶ: Kéo dài đến phạm vi |
@@ -359,10 +347,6 @@
 | 164 | 垂らす（たらす） | Tha động từ | ・Thả rủ | 〜を垂らす: chủ thể thả rủ | ・よだれを垂らす: Chảy dãi<br>・髪を垂らす: Thả tóc rủ<br>・糸を垂らす: Thả chỉ xuống |
 | 165 | 授かる（さずかる） | Tự động từ | ・Được ban cho | 〜が授かる: tự được ban | ・子どもを授かる: Được ban con<br>・賞を授かる: Được trao giải<br>・知恵を授かる: Được ban trí tuệ |
 | 165 | 授ける（さずける） | Tha động từ | ・Ban cho | 〜を授ける: chủ thể ban cho | ・知恵を授ける: Ban trí tuệ<br>・賞を授ける: Trao giải<br>・力を授ける: Ban sức mạnh |
-| 166 | 空く（あく） | Tự động từ | ・Trống, rảnh | 〜が空く: tự trống/rảnh | ・席が空く: Ghế trống<br>・時間が空く: Rảnh giờ<br>・穴が空く: Có lỗ thủng |
-| 166 | 空ける（あける） | Tha động từ | ・Để trống, dọn ra | 〜を空ける: chủ thể để trống/dọn | ・席を空ける: Để trống ghế<br>・時間を空ける: Dành thờ gian<br>・穴を空ける: Đục lỗ |
-| 167 | 取れる（とれる） | Tự động từ | ・Rờ ra, đậu (thi), đo | 〜が取れる: tự rờ/đậu/đo | ・ネジが取れる: Ốc rờ<br>・試験に取れる: Đậu kỳ thi<br>・写真が取れる: Chụp được ảnh |
-| 167 | 取る（とる） | Tha động từ | ・Lấy, đo, chụp | 〜を取る: chủ thể lấy/đo/chụp | ・本を取る: Lấy sách<br>・写真を取る: Chụp ảnh<br>・年を取る: Về già |
 | 168 | 降りる（おりる） | Tự động từ | ・Xuống (xe, tàu) | 〜が降りる / 〜を降りる: tự xuống | ・電車を降りる: Xuống tàu<br>・駅で降りる: Xuống ga<br>・階段を降りる: Xuống cầu thang |
 | 168 | 降ろす（おろす） | Tha động từ | ・Cho xuống, dỡ xuống | 〜を降ろす: chủ thể cho xuống/dỡ | ・荷物を降ろす: Dỡ hành lý xuống<br>・子どもを降ろす: Cho con xuống<br>・客を降ろす: Cho khách xuống |
 | 169 | 通る（とおる） | Tự động từ | ・Đi qua, được thông | 〜が通る / 〜を通る: tự đi qua/được thông | ・バスが通る: Xe buýt đi qua<br>・電話が通る: Gọi thông<br>・言うことが通る: Nói được thông qua |
@@ -383,8 +367,6 @@
 | 176 | 曇らす（くもらす） | Tha động từ | ・Làm mờ, làm buồn | 〜を曇らす: chủ thể làm mờ/buồn | ・メガネを曇らす: Làm mờ kính<br>・表情を曇らす: Làm buồn vẻ mặt<br>・心を曇らす: Làm u ám lòng |
 | 177 | 転がる（ころがる） | Tự động từ | ・Lăn, ngã | 〜が転がる: tự lăn/ngã | ・ボールが転がる: Bóng lăn<br>・道に転がる: Nằm lăn ra đường<br>・石が転がる: Đá lăn |
 | 177 | 転がす（ころがす） | Tha động từ | ・Lăn, làm ngã | 〜を転がす: chủ thể lăn/làm ngã | ・ボールを転がす: Lăn bóng<br>・人を転がす: Làm ngườ ngã<br>・荷物を転がす: Lăn hành lý |
-| 178 | 浮く（うく） | Tự động từ | ・Nổi | 〜が浮く: tự nổi | ・木が浮く: Gỗ nổi<br>・油が浮く: Dầu nổi<br>・体が浮く: Ngườ nổi |
-| 178 | 浮かす（うかす） | Tha động từ | ・Làm nổi | 〜を浮かす: chủ thể làm nổi | ・体を浮かす: Làm nổi ngườ<br>・腰を浮かす: Nhổm mông<br>・船を浮かす: Cho thuyền nổi |
 | 179 | 浸かる（つかる） | Tự động từ | ・Ngâm | 〜が浸かる / 〜に浸かる: tự ngâm | ・お風呂に浸かる: Tắm ngâm<br>・足が浸かる: Ngâm chân<br>・水に浸かる: Ngâm nước |
 | 179 | 浸す（つかす） | Tha động từ | ・Nhúng, ngâm | 〜を浸す: chủ thể nhúng/ngâm | ・野菜を水に浸す: Ngâm rau vào nước<br>・足を浸す: Nhúng chân<br>・手を浸す: Nhúng tay |
 | 180 | 漬かる（つかる） | Tự động từ | ・Được ngâm (muối) | 〜が漬かる: tự được ngâm | ・野菜が漬かる: Rau được muối<br>・ぬかに漬かる: Được ngâm cám<br>・梅が漬かる: Mơ được ngâm |
@@ -467,12 +449,8 @@
 | 218 | 千切る（ちぎる） | Tha động từ | ・Xé nhỏ, vặt | 〜を千切る: chủ thể xé/vặt | ・紙を千切る: Xé giấy<br>・レタスを千切る: Vặt rau<br>・雲を千切る: Xé mây |
 | 219 | ほぐれる | Tự động từ | ・Được nới lỏng, tan ra | 〜がほぐれる: tự được nới/tan | ・筋肉がほぐれる: Cơ thư giãn<br>・糸がほぐれる: Chỉ tan ra<br>・緊張がほぐれる: Căng thẳng tan |
 | 219 | ほぐす | Tha động từ | ・Nới lỏng, tháo gỡ, massage | 〜をほぐす: chủ thể nới/tháo/massage | ・筋肉をほぐす: Massage cơ<br>・糸をほぐす: Tháo chỉ<br>・緊張をほぐす: Làm tan căng thẳng |
-| 220 | 縮む（ちぢむ） | Tự động từ | ・Co lại | 〜が縮む: tự co lại | ・体が縮む: Co ngườ<br>・距離が縮む: Khoảng cách thu ngắn<br>・寿命が縮む: Tuổi thọ giảm |
-| 220 | 縮める（ちぢめる） | Tha động từ | ・Làm co, thu ngắn | 〜を縮める: chủ thể làm co/thu ngắn | ・体を縮める: Co ngườ lại<br>・距離を縮める: Rút ngắn khoảng cách<br>・寿命を縮める: Rút ngắn tuổi thọ |
 | 221 | 分かれる（わかれる） | Tự động từ | ・Chia ra, tách | 〜が分かれる: tự chia/tách | ・道が分かれる: Đường rẽ<br>・意見が分かれる: Bất đồng<br>・クラスが分かれる: Lớp chia ra |
 | 221 | 分ける（わける） | Tha động từ | ・Chia, tách, phân | 〜を分ける: chủ thể chia/tách/phân | ・ケーキを分ける: Chia bánh<br>・クラスを分ける: Chia lớp<br>・仕事を分ける: Phân công việc |
-| 222 | 足りる（たりる） | Tự động từ | ・Đủ | 〜が足りる: tự đủ | ・お金が足りる: Đủ tiền<br>・説明が足りる: Đủ giải thích<br>・時間が足りる: Đủ thờ gian |
-| 222 | 足す（たす） | Tha động từ | ・Thêm vào, bù | 〜を足す: chủ thể thêm/bù | ・水を足す: Thêm nước<br>・塩を足す: Thêm muố<br>・説明を足す: Bổ sung giải thích |
 | 223 | 生きる（いきる） | Tự động từ | ・Sống | 〜が生きる: tự sống | ・人は生きる: Ngườ sống<br>・魚が生きる: Cá sống<br>・心が生きる: Lòng sống |
 | 223 | 生かす（いかす） | Tha động từ | ・Để sống, tận dụng | 〜を生かす: chủ thể để sống/tận dụng | ・魚を生かす: Giữ cá sống<br>・経験を生かす: Tận dụng kinh nghiệm<br>・才能を生かす: Phát huy tài năng |
 | 224 | 腐る（くさる） | Tự động từ | ・Thối rữa | 〜が腐る: tự thối rữa | ・食べ物が腐る: Thức ăn thối<br>・魚が腐る: Cá thối<br>・心が腐る: Lòng thối nát |
